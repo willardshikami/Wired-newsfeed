@@ -1,2 +1,2 @@
 # wired-newsfeed
-Android app with latest news from wired dot com
+Android app fetching latest news from wired dot com
