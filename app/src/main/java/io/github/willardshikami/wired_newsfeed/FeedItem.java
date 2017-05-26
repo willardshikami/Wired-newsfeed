@@ -9,7 +9,7 @@ public class FeedItem {
     String link;
     String description;
     String pubDate;
-    String thumbnail;
+    String thumbnailUrl;
 
     public String getTitle() {
         return title;
@@ -43,11 +43,11 @@ public class FeedItem {
         this.pubDate = pubDate;
     }
 
-    public String getThumbnail() {
-        return thumbnail;
+    public String getThumbnailUrl() {
+        return thumbnailUrl;
     }
 
-    public void setThumbnail(String thumbnail) {
-        this.thumbnail = thumbnail;
+    public void setThumbnailUrl(String thumbnailUrl) {
+        this.thumbnailUrl = thumbnailUrl;
     }
 }
