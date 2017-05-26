@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/willardpc/.android/build-cache/7cedcb2262cc0f5faac8aecf618949b22ca3c078/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/classes_34b2121ee6c7b1893844fa09d0f53e5b64524b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/willardpc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
         jumboMode="false"
         optimize="true"
@@ -84,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/willardpc/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/library-2.4.0_5f5e8ce3d4e42a66285e38a045f3caa89722960c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/willardpc/.android/build-cache/96029eb50c3ff89b1381f4edb357c625889f7fc0/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +117,15 @@
         revision="25.0.3"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
         <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_78538467a92fe611ba8f4993df03e13df19cc76e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/willardpc/.android/build-cache/458e729140e0bf4c8e7a38a6f527ea956c596c5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/classes_d35cdf94c529cd896ca65795c22a3eacc1ddda7a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/willardpc/.android/build-cache/4f0ac932402960339be1f7514ab2a6c183724be8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/classes_1fb5aaa5ca235801435ff4751a64eca42b9b4d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/willardpc/.android/build-cache/9c5def69469864f9b0f0098912d11919ca0073c8/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +180,15 @@
         revision="25.0.3"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
         <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/classes_5dc46f946f916c015e7e8cbcc7629c365b2e7650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/willardpc/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/willardpc/androidwork/Wired-newsfeed/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_dca0e4e74ad424708cd1eaa5aad570572feadf29.jar" />
     </item>
 
 </items>

@@ -26,6 +26,7 @@ public class ReadRss extends AsyncTask<Void, Void, Void> {
     ArrayList<FeedItem>feedItems;
     RecyclerView recyclerView;
     URL url;
+
     public ReadRss(Context context,RecyclerView recyclerView) {
         this.recyclerView=recyclerView;
         this.context = context;

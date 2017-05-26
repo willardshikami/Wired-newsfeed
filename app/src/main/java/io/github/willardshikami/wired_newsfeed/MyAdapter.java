@@ -5,7 +5,6 @@ package io.github.willardshikami.wired_newsfeed;
  */
 
 
-import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
@@ -52,6 +51,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         return feedItems.size();
     }
 
+    //Load the Content into the views
     public class MyViewHolder extends RecyclerView.ViewHolder {
         TextView Title,Description,Date;
         ImageView Thumbnail;
